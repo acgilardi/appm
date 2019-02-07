@@ -1,0 +1,12 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/*
+ * Public API Surface of common-registration
+ */
+export { CommonRegistrationService } from './lib/common-registration.service';
+export { CommonRegistrationComponent } from './lib/common-registration.component';
+export { CommonRegistrationModule } from './lib/common-registration.module';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoicHVibGljX2FwaS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL2NvbW1vbi1yZWdpc3RyYXRpb24vIiwic291cmNlcyI6WyJwdWJsaWNfYXBpLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiI7Ozs7Ozs7QUFJQSwwQ0FBYyxtQ0FBbUMsQ0FBQztBQUNsRCw0Q0FBYyxxQ0FBcUMsQ0FBQztBQUNwRCx5Q0FBYyxrQ0FBa0MsQ0FBQyIsInNvdXJjZXNDb250ZW50IjpbIi8qXG4gKiBQdWJsaWMgQVBJIFN1cmZhY2Ugb2YgY29tbW9uLXJlZ2lzdHJhdGlvblxuICovXG5cbmV4cG9ydCAqIGZyb20gJy4vbGliL2NvbW1vbi1yZWdpc3RyYXRpb24uc2VydmljZSc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9jb21tb24tcmVnaXN0cmF0aW9uLmNvbXBvbmVudCc7XG5leHBvcnQgKiBmcm9tICcuL2xpYi9jb21tb24tcmVnaXN0cmF0aW9uLm1vZHVsZSc7XG4iXX0=
